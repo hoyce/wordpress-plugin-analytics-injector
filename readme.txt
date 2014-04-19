@@ -4,8 +4,8 @@ Contributors: hoyce
 Donate link: 
 Tags: google, google analytics, analytics, statistics, stats, javascript, web analytics, 
 Requires at least: 3.0
-Tested up to: 3.8.1
-Stable tag: 1.1.2
+Tested up to: 3.9
+Stable tag: 1.1.3
 
 == Description ==
 
@@ -50,3 +50,7 @@ Manually
 * Added option for _setDomainName
 * The plugin now exclude the visits from given restricted url. (bug fix)
 * Tested stability up to Wordpress 3.8.1
+
+= 1.1.3 =
+* Added this plugin to Github https://github.com/hoyce/google-analytics-injector
+* Tested stability up to Wordpress 3.9
