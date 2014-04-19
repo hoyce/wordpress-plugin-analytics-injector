@@ -4,7 +4,7 @@
  Plugin URI: http://www.geckosolutions.se/blog/wordpress-plugins/
  Description: Google Analytics Injector plugin let you inject Google Analytics tracking code into your website to 
  collect statistics about your visitors. Just add your tracking code from Google Analytics to start the tracking.
- Version: 1.1.2
+ Version: 1.1.3
  Author: Niklas Olsson
  Author URI: http://www.geckosolutions.se
  License: GPL 2.0, @see http://www.gnu.org/licenses/gpl-2.0.html
